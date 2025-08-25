@@ -24,7 +24,7 @@ basic_info:
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://www.infojobs.net/candidato.foto?dgv=1334168330628214805&id_candidato=2f2f9ab3-c852-49ec-9c9a-10490e1f8acc
 
     # Contact Information
     email: a5l6e7x8@gmail.com #optional
